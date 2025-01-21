@@ -45,9 +45,6 @@ Durante o desenvolvimento deste projeto, foram reforçados conceitos importantes
 ## 🤝 Contribuições  
 Contribuições são bem-vindas! Caso queira sugerir melhorias ou reportar problemas, sinta-se à vontade para abrir uma issue.  
 
-## 📝 Licença  
-Este projeto está sob a licença MIT.  
-
 ---  
 
 🛠 Desenvolvido com dedicação durante os estudos na **Alura**.
