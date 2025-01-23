@@ -16,20 +16,6 @@ O **Enigma Numérico** é um jogo simples e divertido onde o jogador deve adivin
 - Contagem de tentativas até acertar o número.  
 - Botão para reiniciar o jogo com um novo número.  
 
-## 📷 Captura de Tela  
-*(Adicione aqui uma captura de tela do jogo rodando, para atrair a atenção dos visitantes do repositório.)*  
-
-## 📂 Como Executar o Projeto  
-1. Clone o repositório para sua máquina local:  
-   ```bash
-   git clone https://github.com/seuusuario/enigma-numerico.git
-   ```  
-2. Acesse a pasta do projeto:  
-   ```bash
-   cd enigma-numerico
-   ```  
-3. Abra o arquivo `index.html` no navegador de sua preferência.  
-
 ## 📚 Aprendizados  
 Durante o desenvolvimento deste projeto, foram reforçados conceitos importantes de:  
 - Estruturação de código com HTML.  
